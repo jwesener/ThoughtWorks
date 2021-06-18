@@ -1,37 +1,37 @@
-﻿name,ring,quadrant,isNew,description
-Gather & analyze existing customer knowledge & data to understand value drivers,Monitor,Market Strategy,TRUE,<p>migrate all data to jeweler data platform; add external data; add data expertise (people) to the business units (F1)</p>
-"Develop ability to target key life events: engagement, wedding, home purchase, birth, etc. ",Monitor,Market Strategy,TRUE,<p>migrate all data to jeweler data platform; add external data; add data expertise (people) to the business units (C3)</p>
-"Create a ""package"" of services & products by customer type or segment",Study,Product Innovation,TRUE,<p>migrate all data to jeweler data platform; add external data; add data expertise (people) to the business units (E2)</p>
-Develop/use CL Customer segmentation to improve loss ratio (current book + new) ,Incubate,Product Innovation,TRUE,<p>Re-visit uw guidelines with data; buy or develop talent (G2)</p>
-Create data-driven benchmark approach (for external use) to aid customers in identifying levers to increase revenue and decrease risk of loss,Incubate,Customer Insights,TRUE,<p>(B1)</p>
-Cross-sell existing GA customers with JM PL lines and services ,Study,Growth Strategy,TRUE,"<p>existing products, customers and data; need sales center staff (create capacity within) to pursue; compensation (B4)</p>"
-"Cross sell existing JM customers with other lines via GA (WC, Auto) ",Study,Growth Strategy,TRUE,<p>have markets through JMIS and Wexler; need value proposition for JM agent (G1)</p>
-Create a service center to handle outbound & cross-sell opportunities ,Study,Growth Strategy,TRUE,"<p>need to think structure for Enterprise; number and skill of staff; value prop and comp for agent, rethink CRM solution for GA. (E4)</p>"
-Cross sell shipping to all JM/Wexler clients ,Monitor,Growth Strategy,TRUE,"<p>existing products, customers and data; need sales center staff to pursue; compensation (C7)</p>"
-Expand shipping solution beyond jewelry industry,Monitor,Growth Strategy,TRUE,"<p>existing products, customers and data; need sales center staff to pursue; compensation (C4)</p>"
-Create and offer JM Claims to other carriers as a TPA ,Incubate,Product Innovation,TRUE,<p>(A3)</p>
-Create and offer JM Loss Prevention service to other carriers / customers for hire ,Incubate,Product Innovation,TRUE,<p>(C2)</p>
-Create and offer JM Underwriting services to other carriers for jewelry industry,Study,Product Innovation,TRUE,<p> (A3)</p>
-Develop new programs utilizing GA (non-jewelry),Monitor,Product Innovation,TRUE,<p> not direct risk taking instead fee for service (C8)</p>
-Develop CL strategic partnerships with other carriers to bring products / services to jewelers (HSB model),Study,Customer Insights,TRUE,<p>partner market (A2)</p>
-"Expand into adjacent industries - pawn, fine arts, collectibles as a direct risk taker",Monitor,Product Innovation,TRUE,<p>(E3)</p>
-Expand into non-adjacent industries as an underwriting risk taker,Monitor,Growth Strategy,TRUE,<p>(D4)</p>
-Expand into global / international jewelry market as a direct risk taker ,Monitor,Growth Strategy,TRUE,<p>(G3)</p>
-"Expand existing JMIC underwriting appetite in jewelry industry (larger, other classes, etc.) ",Study,Product Innovation,TRUE,<p>Re-visit uw guidelines with data; buy or develop talent (A4)</p>
-Acquire additional agencies lacking succession ,Study,Market Strategy,TRUE,<p>current IA(C1)</p>
-"Expand into adjacent industries - pawn, fine arts, collectibles as a distributor for partner markets",Monitor,Product Innovation,TRUE,<p>(B2)</p>
-Expand into global / international jewelry market as a distributor through GA,Monitor,Growth Strategy,TRUE,<p>distributing for other partner markets (D5)</p>
-Expand into offering reinsurance for existing segments via Lloyds,Incubate,Product Innovation,TRUE,<p>(E7)</p>
-Expand into middle-to-large/complex jewelry market with a partner,Monitor,Growth Strategy,TRUE,<p> use partner markets?  (E1)</p>
-Bring JM technology platform to Lloyds or other partner carriers ,Monitor,Market Strategy,TRUE,<p>eff play (B3)</p>
-Acquire other niche market players where synergies exist carrier or GA,Monitor,Growth Strategy,TRUE,<p>(E5)</p>
-Expand into global / international jewelry market as a reinsurer,Monitor,Growth Strategy,TRUE,<p>(E7)</p>
-Add additional agents/producers in underpenetrated geographies ,Monitor,Market Strategy,TRUE,<p>(F1)</p>
-Create best practices for production sales culture and customer handling to drive across JMIS and Wexler Agencies consistency & increase customer retention & cross-sell,Study,Market Strategy,TRUE,<p>cross training+ new practices (F2)</p>
-Combine JMIS and Wexler Retail Agency force (GA remain separate) ,Incubate,Market Strategy,TRUE,<p>(F3)</p>
-Technology build to increase efficiency and automation at GA ,Accelerate,Customer Insights,TRUE,<p>(F4)</p>
-Negotiate lower cost structure with AJG on Lloyds GA business ,Incubate,Growth Strategy,TRUE,<p>(F5)</p>
-Optimize real estate foot print ,Monitor,Growth Strategy,TRUE,<p>F6</p>
-"Complete talent mapping, gap assessment and strategy development across org, and add talent bench strength in key areas",Incubate,Customer Insights,TRUE,<p>Add talent bench strength in key areas (E6)</p>
-Create a product & research team to be responsible for Voice of Customer,Incubate,Customer Insights,TRUE,<p>(F4)</p>
-"Leveraging Jeweler Programs, Express and Care Plan within the GA",Incubate,Product Innovation,TRUE,<p>(H1)</p>
+﻿name,ring,quadrant,isNew,description,rings
+Technology build to increase efficiency and automation at GA ,Accelerate,Customer Insights,TRUE,<p>(F4)</p>,
+Develop/use CL Customer segmentation to improve loss ratio (current book + new) ,Incubate,Product Innovation,TRUE,<p>Re-visit uw guidelines with data; buy or develop talent (G2)</p>,
+Create data-driven benchmark approach (for external use) to aid customers in identifying levers to increase revenue and decrease risk of loss,Incubate,Customer Insights,TRUE,<p>(B1)</p>,
+Create and offer JM Claims to other carriers as a TPA ,Incubate,Product Innovation,TRUE,<p>(A3)</p>,
+Create and offer JM Loss Prevention service to other carriers / customers for hire ,Incubate,Product Innovation,TRUE,<p>(C2)</p>,
+Expand into offering reinsurance for existing segments via Lloyds,Incubate,Product Innovation,TRUE,<p>(E7)</p>,
+Combine JMIS and Wexler Retail Agency force (GA remain separate) ,Incubate,Market Strategy,TRUE,<p>(F3)</p>,
+Negotiate lower cost structure with AJG on Lloyds GA business ,Incubate,Growth Strategy,TRUE,<p>(F5)</p>,
+"Complete talent mapping, gap assessment and strategy development across org, and add talent bench strength in key areas",Incubate,Customer Insights,TRUE,<p>Add talent bench strength in key areas (E6)</p>,
+Create a product & research team to be responsible for Voice of Customer,Incubate,Customer Insights,TRUE,<p>(F4)</p>,
+"Leveraging Jeweler Programs, Express and Care Plan within the GA",Incubate,Product Innovation,TRUE,<p>(H1)</p>,
+"Create a ""package"" of services & products by customer type or segment",Study,Product Innovation,TRUE,<p>migrate all data to jeweler data platform; add external data; add data expertise (people) to the business units (E2)</p>,
+Cross-sell existing GA customers with JM PL lines and services ,Study,Growth Strategy,TRUE,"<p>existing products, customers and data; need sales center staff (create capacity within) to pursue; compensation (B4)</p>",
+"Cross sell existing JM customers with other lines via GA (WC, Auto) ",Study,Growth Strategy,TRUE,<p>have markets through JMIS and Wexler; need value proposition for JM agent (G1)</p>,
+Create a service center to handle outbound & cross-sell opportunities ,Study,Growth Strategy,TRUE,"<p>need to think structure for Enterprise; number and skill of staff; value prop and comp for agent, rethink CRM solution for GA. (E4)</p>",
+Create and offer JM Underwriting services to other carriers for jewelry industry,Study,Product Innovation,TRUE,<p> (A3)</p>,
+Develop CL strategic partnerships with other carriers to bring products / services to jewelers (HSB model),Study,Customer Insights,TRUE,<p>partner market (A2)</p>,
+"Expand existing JMIC underwriting appetite in jewelry industry (larger, other classes, etc.) ",Study,Product Innovation,TRUE,<p>Re-visit uw guidelines with data; buy or develop talent (A4)</p>,
+Acquire additional agencies lacking succession ,Study,Market Strategy,TRUE,<p>current IA(C1)</p>,
+Create best practices for production sales culture and customer handling to drive across JMIS and Wexler Agencies consistency & increase customer retention & cross-sell,Study,Market Strategy,TRUE,<p>cross training+ new practices (F2)</p>,
+Gather & analyze existing customer knowledge & data to understand value drivers,Monitor,Market Strategy,TRUE,<p>migrate all data to jeweler data platform; add external data; add data expertise (people) to the business units (F1)</p>,
+"Develop ability to target key life events: engagement, wedding, home purchase, birth, etc. ",Monitor,Market Strategy,TRUE,<p>migrate all data to jeweler data platform; add external data; add data expertise (people) to the business units (C3)</p>,
+Cross sell shipping to all JM/Wexler clients ,Monitor,Growth Strategy,TRUE,"<p>existing products, customers and data; need sales center staff to pursue; compensation (C7)</p>",
+Expand shipping solution beyond jewelry industry,Monitor,Growth Strategy,TRUE,"<p>existing products, customers and data; need sales center staff to pursue; compensation (C4)</p>",
+Develop new programs utilizing GA (non-jewelry),Monitor,Product Innovation,TRUE,<p> not direct risk taking instead fee for service (C8)</p>,
+"Expand into adjacent industries - pawn, fine arts, collectibles as a direct risk taker",Monitor,Product Innovation,TRUE,<p>(E3)</p>,
+Expand into non-adjacent industries as an underwriting risk taker,Monitor,Growth Strategy,TRUE,<p>(D4)</p>,
+Expand into global / international jewelry market as a direct risk taker ,Monitor,Growth Strategy,TRUE,<p>(G3)</p>,
+"Expand into adjacent industries - pawn, fine arts, collectibles as a distributor for partner markets",Monitor,Product Innovation,TRUE,<p>(B2)</p>,
+Expand into global / international jewelry market as a distributor through GA,Monitor,Growth Strategy,TRUE,<p>distributing for other partner markets (D5)</p>,
+Expand into middle-to-large/complex jewelry market with a partner,Monitor,Growth Strategy,TRUE,<p> use partner markets?  (E1)</p>,
+Bring JM technology platform to Lloyds or other partner carriers ,Monitor,Market Strategy,TRUE,<p>eff play (B3)</p>,
+Acquire other niche market players where synergies exist carrier or GA,Monitor,Growth Strategy,TRUE,<p>(E5)</p>,
+Expand into global / international jewelry market as a reinsurer,Monitor,Growth Strategy,TRUE,<p>(E7)</p>,
+Add additional agents/producers in underpenetrated geographies ,Monitor,Market Strategy,TRUE,<p>(F1)</p>,
+Optimize real estate foot print ,Monitor,Growth Strategy,TRUE,<p>F6</p>,
