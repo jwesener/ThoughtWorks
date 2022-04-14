@@ -1,10 +1,10 @@
 ﻿name,ring,quadrant,isNew,description,rings
 BPP Calculator - Agent SharePoint Site,Accelerate,Product Innovation,FALSE,<p>33<p>,
 Wexler Process Optimization,Accelerate,General Agency,FALSE,<p>Resource Pro taking a deep dive into Wexler processes(1)<p>,
-"Cross-sell - (WC, PL etc)",Accelerate,General Agency,FALSE,"<p>Cross-sell existing JM customers with other lines via GA (WC, Auto), have markets through JMIS and Wexler; need value proposition for JM agent (19)</p>",
-Service Center,Accelerate,General Agency,FALSE,"<p>Create a service center to handle outbound & cross-sell opportunities, need to think structure for Enterprise; number and skill of staff; value prop and comp for agent, rethink CRM solution for GA. (65)</p>",
+"Cross-sell - (WC, PL etc)",Accelerate,General Agency,TRUE,"<p>Cross-sell existing JM customers with other lines via GA (WC, Auto), have markets through JMIS and Wexler; need value proposition for JM agent (19)</p>",
+Service Center,Accelerate,General Agency,TRUE,"<p>Create a service center to handle outbound & cross-sell opportunities, need to think structure for Enterprise; number and skill of staff; value prop and comp for agent, rethink CRM solution for GA. (65)</p>",
 ITV,Accelerate,Commercial Lines,TRUE,<p>create and action plan to improve ITV within JMIC (80)<p>,
-Integrate JMSS Shipping Exposure to GW,Accelerate,Commercial Lines,FALSE,<p> Integrate JMSS shipping exposure with GW PC at the time of renewal so the insured is paying for accurate exposure if they chose to leave shipping coverage on the block. This way it provides the jeweler relief of only paying for what they use and they do not need to keep track of it and report it on the block. It allows JMIC to make sure they are getting the correct premium for the exposure.(14) <p>,
+Integrate JMSS Shipping Exposure to GW,Accelerate,Commercial Lines,TRUE,<p> Integrate JMSS shipping exposure with GW PC at the time of renewal so the insured is paying for accurate exposure if they chose to leave shipping coverage on the block. This way it provides the jeweler relief of only paying for what they use and they do not need to keep track of it and report it on the block. It allows JMIC to make sure they are getting the correct premium for the exposure.(14) <p>,
 JM Loss Prevention to other carriers,Incubate,JM Risk Services,FALSE,<p>Create and offer JM Loss Prevention service to other carriers / customers for hire(17)</p>,
 Alarm Response Program,Accelerate,JM Risk Services,FALSE,<p>To provide policyholders with a guard response service through Securitas to ensure all alarm activations are investigated(13)<p> ,
 e-Learning Modules,Accelerate,JM Risk Services,FALSE,<p>Provide simulation based eLearning modules based on JSA Jewelers Security Manual. Planned launch date August 2022 (12)<p>,
@@ -14,16 +14,16 @@ Memo ,Incubate,Product Innovation,FALSE,<p>(7)<p>,
 Blanket AI,Incubate,Product Innovation,FALSE,<p>(8)<p>,
 PaxSafe,Incubate,Product Innovation,FALSE,<p>Analytics that predicts the delivery of packages and steers customer by setting expectations of delivery(22)<p>,
 JB Select,Accelerate,General Agency,FALSE,<p>(15)<p>,
-GA Technology,Incubate,General Agency,FALSE,<p>Technology build to increase efficiency and automation at GA (18)</p>,
+GA Technology,Incubate,General Agency,TRUE,<p>Technology build to increase efficiency and automation at GA (18)</p>,
 JM Underwriting for other carriers,Incubate,General Agency,FALSE,"<p>Create and offer JM Underwriting services to other carriers for jewelry industry, not direct risk taking instead fee for service
 1. Berkley WC -doing currently
 2. JB Select - May 2022
 3. PJF Binder Program - coming soon(43)</p>",
-Pawn Inspection Program,Study,JM Risk Services,FALSE,<p>Pawn Program renewed on 4/1/22 and will look to include this service in the 2023 proposal(3)<p>,
+Pawn Inspection Program,Study,JM Risk Services,TRUE,<p>Pawn Program renewed on 4/1/22 and will look to include this service in the 2023 proposal(3)<p>,
 Third Party Monitoring,Monitor,JM Risk Services,FALSE,<p>(2)<p>,
 OFAC Notice,Incubate,Commercial Lines,TRUE,<p>review OFAC exclusion or coverage if on OFAC list (77)<p>,
 JMIC underwriting appetite ,Study,Commercial Lines,FALSE,<p>Define existing JMIC underwriting appetite in jewelry industry.  (23)</p>,
-Disappearance/Throw-away Sublimit,Monitor,Product Innovation,FALSE,<p> (9)<p>,
+Disappearance/Throw-away Sublimit,Monitor,Product Innovation,TRUE,<p> (9)<p>,
 EPLI Bolt On Coverage -Wexler,Study,Product Innovation,FALSE,<p>(11)<p>,
 Multiple Underwriting Companies ,Study,Product Innovation,FALSE,<p>Commercial Lines leverage multiple Underwriting Companies (JMSI)(60)<p>,
 CL Customer Segmentation ,Study,Product Innovation,FALSE,"<p>Develop/use CL Customer segmentation to improve loss ratio (current book + new), Re-visit uw guidelines with data; buy or develop talent (73)</p>",
@@ -31,7 +31,7 @@ Claims TPA,Study,General Agency,FALSE,<p>Create and offer JM Claims to other car
 Reinsurance Expansion,Study,Product Innovation,FALSE,<p>Expand into offering reinsurance for existing segments via Lloyds - EPLI(67)</p>,
 Owned Retail Agency Consolidation,Study,General Agency,FALSE,<p>Combine JMIS and Wexler Retail Agency force (GA remain separate) (70)</p>,
 Talent Assessment,Study,General Agency,FALSE,"<p>Complete talent mapping, gap assessment and strategy development across org, and add talent bench strength in key areas, Add talent bench strength in key areas (24)</p>",
-Voice of Customer Team,Incubate,Product Innovation,FALSE,<p>Create a product & research team to be responsible for Voice of Customer(71)</p>,
+Voice of Customer Team,Incubate,Product Innovation,TRUE,<p>Create a product & research team to be responsible for Voice of Customer(71)</p>,
 CL Strategic Partnerships,Study,General Agency,FALSE,"<p>Develop CL strategic partnerships with other carriers to bring products / services to jewelers (HSB model), partner market (59)</p>",
 Training and Development,Study,General Agency,FALSE,"<p>Commitment and supports leaders to a unified process to implement new products and services to our distribution partners and customers
 Clear, concise, and consistent plan for any product, service or technology roll out across retail agency, GA partners and product teams  
