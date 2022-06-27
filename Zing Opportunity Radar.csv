@@ -52,7 +52,20 @@ Antique,Study,Mareketplace and Point of Sale,TRUE,,
 EVERLEDGER,Study,Mareketplace and Point of Sale,FALSE,,
 Virtual Diamond Botique,Study,Mareketplace and Point of Sale,FALSE,,
 Estate,Study,Mareketplace and Point of Sale,TRUE,,
-Get Diamonds,Study,Mareketplace and Point of Sale,TRUE,,
+Get Diamonds,Study,Mareketplace and Point of Sale,TRUE,"<p>
+Situation: 
+Get Diamonds is a competitive threat to IDEX and Zing Marketplace for finished / polished stones. <br></br>
+
+As a response to Rapnet dropping prices in the early days of Covid - 19, the World Federation of Diamond Bourses (https://www.wfdb.com/) decided to build their own diamond trading platform. 
+<br></br>
+Medium / High Risk – Working to secure elements of entire supply chain (not just diamonds) <br></br>
+•	This organization represents the largest global collection of the diamond site holders and cutters, and distributors from DeBeer’s to Chow Tai Fook<br></br>
+•	Stood up platform in 4 weeks (deep pockets) <br></br>
+•	Competitive threat to entire marketplace 6-24 months<br></br>
+•	Repeatedly courted Gem + Jewel to expand their reach to entire supply chain to replicate the B2B component of the Zing Marketplace business model. <br></br>
+•	As a response to Rapnet dropping prices in the early days of Covid - 19, the World Federation of Diamond Bourses (https://www.wfdb.com/) decided to build their own diamond trading platform. 
+•	This organization represents the largest global collection of the diamond site holders and cutters, and distributors from DeBeer’s to Chow Tai Fook.<br></br>
+<a href=""https://www.get-diamonds.com/""> GET DIAMONDS</a></p>",
 Gelior Marketplace,Study,Mareketplace and Point of Sale,TRUE,,
 Blog / Forum,Study,Professional Services,TRUE,,
 Pinterest,Study,Professional Services,TRUE,,
@@ -97,7 +110,7 @@ Payment Processing,Monitor,Financial Services,FALSE,,
 Stripe,Monitor,Financial Services,TRUE,,
 Lending / Financing,Monitor,Financial Services,TRUE,,
 Credit,Monitor,Financial Services,TRUE,,
-Wells Fargo,Monitor,Financial Services,FALSE,"<p>Wells fargo lending for AGS  Jewelers <a href=""https://www.wellsfargo.com"">Working with Amanda Howe Next meeting Scheduled July 14th</a></p>",
+Wells Fargo,STUDY,Financial Services,FALSE,"<p>Wells fargo lending for AGS  Jewelers <a href=""https://www.wellsfargo.com"">Working with Amanda Howe Next meeting Scheduled July 14th</a></p>",
 KYC Solutions,Monitor,Financial Services,FALSE,,
 WePay,Monitor,Financial Services,TRUE,,
 ANT Financial,Monitor,Financial Services,TRUE,,
@@ -117,7 +130,6 @@ Foreign exchange,Monitor,Professional Services,TRUE,,
 Appraisals,Monitor,Professional Services,TRUE,,
 Salvage,Monitor,Professional Services,TRUE,,
 Authenticity Verification,Monitor,Professional Services,TRUE,,
-Photography / Video,Monitor,Professional Services,TRUE,,
 Augmented Reality,Monitor,Professional Services,TRUE,,
 Marketing,Monitor,Professional Services,TRUE,,
 Social Media INFLUENCERS,Monitor,Professional Services,TRUE,,
